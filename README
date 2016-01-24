@@ -1,0 +1,8 @@
+///README/////
+
+
+In this project, there is one Alpha zombie that is Magenta, which is a type of human. There are 30 humans randomly placed that are white, and normal zombies are pink. The Alpha zombie is mouse click controllable and the humans randomly move by paremeters set up by the instructor (comments in code). A human will run (in yellow) away from a zombie if the zombie is within a certain distance from them.
+
+There are rocks that are in grey and trees that are green. Neither humans or zombies can go through those. There is a blue river that zombies can cross and humans can not. And there is a human hotspot where humans are safe from humans that is cyan blue. All of these objects are also randomly generated. 
+
+The goal of the game is for all of the humans to turn into zombies, which is when the game is over because there will no longer be any momre humans to turn into zombies. 
